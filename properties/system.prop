@@ -25,7 +25,7 @@ persist.data.df.dev_name=rmnet_usb0
 persist.vendor.data.mode=concurrent
 ro.vendor.use_data_netmgrd=true
 
-# Disable MTE Async for system server
+# Disable async MTE on system_server
 persist.arm64.memtag.system_server=off
 
 # Display
