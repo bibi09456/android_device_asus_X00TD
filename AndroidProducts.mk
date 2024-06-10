@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_X00TD.mk
+    $(LOCAL_DIR)/cipher_X00TD.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_X00TD-ap1a-userdebug \
-    lineage_X00TD-ap1a-user \
-    lineage_X00TD-ap1a-eng
+    cipher_X00TD-ap1a-userdebug \
+    cipher_X00TD-ap1a-user \
+    cipher_X00TD-ap1a-eng
