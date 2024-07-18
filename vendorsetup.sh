@@ -3,7 +3,7 @@ git clone --depth=1 --recursive https://github.com/Tiktodz/android_kernel_asus_s
 rm -rf kernel/asus/sdm660/KernelSU/userspace
 
 rm -rf device/asus/X00TD
-git clone --depth=1 https://github.com/Tiktodz/android_device_asus_X00TD -b lineage-21-4.4 device/asus/X00TD
+git clone --depth=1 https://github.com/bibi09456/android_device_asus_X00TD -b lineage-21-4.4 device/asus/X00TD
 
 rm -rf vendor/asus
 git clone --depth=1 https://github.com/Tiktodz/android_vendor_asus_X00TD -b udc-4.4 vendor/asus
